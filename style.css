@@ -69,11 +69,13 @@ main {
 }
 
 .info {
+  
   border-bottom: 1px solid var(--Dark-gray);
   margin-top: -3em;
 }
 
 .info img {
+  background-color: white;
   border: 5px solid white;
   border-radius: 50%;
 }
