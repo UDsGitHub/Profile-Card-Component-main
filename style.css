@@ -69,7 +69,6 @@ main {
 }
 
 .info {
-  
   border-bottom: 1px solid var(--Dark-gray);
   margin-top: -3em;
 }
